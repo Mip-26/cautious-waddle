@@ -362,7 +362,7 @@ WR,Aaron Dobson,24,2013,86,67,84,79,92,71,0.9,4
 WR,Richard Konjakowski,20,2015,100,100,100,115,115,115,4,20
 WR,Nate Washington,32,2005,53,87,94,86,84,80,1.1,1
 WR,Martellus Bennett,29,2008,82,81,89,85,78,35,5.1,4
-WR,Johannes Gerstner,20,,2015,100,98,98,115,115,115,0.7,20
+WR,Johannes Gerstner,20,2015,100,98,98,115,115,115,0.7,20
 WR,Severin Schwaighofer,20,2015,100,100,100,115,115,115,0.5,20
 OL,Sebastian Vollmer,31,2009,82,88,78,92,84,93,4.2,4
 OL,Cameron Fleming,23,2014,77,65,93,85,83,73,0.6,1
